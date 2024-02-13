@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faisalnabil
 - 👀 I’m interested in ...programing
-- 🌱 I’m currently learning ...java
+- 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
